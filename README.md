@@ -1,13 +1,16 @@
 SISTEMA DE GERENCIAMENTO DE VEICULOS
+===
 
 Este é um sistema básico de administração de veículos que emprega os princípios de orientação a objetos em Java, destacando a herança, os métodos de acesso e as classes abstratas.
 ===============================================================================================
 
 FUNCIONALIDADES
+===
 Cada classe descendente utiliza o método informacoesVeiculo(), que fornece uma descrição detalhada do veículo.
 ===============================================================================================
 
 ESTRUTURA DAS CLASSES
+===
 
 Carro.java: Classe que se origina de Veículo, acrescentando o atributo númeroPortas.
 ===============================================================================================
@@ -20,7 +23,11 @@ Veiculo.java: Classe abstrata que define atributos comuns a todos os veículos e
 ===============================================================================================
 
 COMO EXECUTAR
+===
 
 Baixe ou clone este repositório.
+===
 javac Main.java [Compila o código e gera o arquivo Main.class]
+===
 java Main [Executa o código]
+===
