@@ -1,1 +1,2 @@
-Carro.java: Classe que herda de Veiculo e adiciona o atributo numeroPortas.
+Carro.java: Classe que se origina de Veículo, acrescentando o atributo númeroPortas.
+Main.java: Classe principal responsável por criar objetos de Carro e Moto, especificar seus atributos e mostrar suas informações.
